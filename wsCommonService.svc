@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TejasviServices.wsCommonService" CodeBehind="wsCommonService.svc.cs" %>
